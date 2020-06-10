@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 2: June 9 2020
+### Day 2: June 9, 2020
 ##### 
 
 **Today's Progress**: JavaScript CSS & JS Clock (JavaScript30), began learning Python on Codecademy, first 3 levels of Plant Your Code 
