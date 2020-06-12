@@ -7,7 +7,7 @@
 
 **Thoughts:** I didn't do as much today as previous days. I am happy about doing the Array Cardio exercises because I often get confused by functions like `reduce()` and `map()`. It's good to get more practice!
 
-**Link to work:** n/a
+**Link to work:** [Array Cardio Day 1](https://github.com/erileff/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index-START.html)
 
 ### Day 3: June 10, 2020
 ##### 
