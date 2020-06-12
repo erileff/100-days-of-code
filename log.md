@@ -1,11 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 11, 2020
+##### 
+
+**Today's Progress**: **Python:** Lovely Loveseats (Codecademy), more Python lessons; **JavaScript:** Array Cardio Day 1 (JavaScript30)
+
+**Thoughts:** I didn't do as much today as previous days. I am happy about doing the Array Cardio exercises because I often get confused by functions like `reduce()` and `map()`. It's good to get more practice!
+
+**Link to work:** n/a
+
 ### Day 3: June 10, 2020
 ##### 
 
 **Today's Progress**: Playing with CSS Variables & JS (JavaScript30), Build a To-Do List (Enlight)
 
-**Thoughts:** 
+**Thoughts:** I loved making this to-do list app and customizing it just a little. I'm excited to work on actual web apps.
 
 **Link to work:** [CSS Variables](https://github.com/erileff/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html), [To Do List](https://github.com/erileff/Portfolio/tree/master/ToDo)
 
