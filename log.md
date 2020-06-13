@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 13, 2020
+##### 
+
+**Today's Progress**: **Python:** Getting Ready for Physics Class; **JavaScript:** Type Ahead (JavaScript30)
+
+**Thoughts:** None, really.
+
+**Link to work:** [Type Ahead](https://github.com/erileff/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
+
+### Day 5: June 12, 2020
+##### 
+
 **Today's Progress**: Flex Panels (JavaScript30)
 
 **Thoughts:** I did even less today. I'll do more tomorrow!
