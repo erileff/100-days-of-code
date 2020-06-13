@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+**Today's Progress**: Flex Panels (JavaScript30)
+
+**Thoughts:** I did even less today. I'll do more tomorrow!
+
+**Link to work:** [Flex Panels](https://github.com/erileff/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/index-START.html)
+
 ### Day 4: June 11, 2020
 ##### 
 
