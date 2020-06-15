@@ -1,11 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 7: June 14, 2020
+##### 
+
+**Today's Progress**: **Python:** Codecademy lessons (control flow, lists), Sal's Shipping, Python Gradebook; **JavaScript:** Array Cardio Day 2 (JavaScript30)
+
+**Thoughts:** 
+
+**Link to work:** [Array Cardio Day 2](https://github.com/erileff/JavaScript30/blob/master/07%20-%20Array%20Cardio%20Day%202/index-START.html)
+
 ### Day 6: June 13, 2020
 ##### 
 
 **Today's Progress**: **Python:** Getting Ready for Physics Class; **JavaScript:** Type Ahead (JavaScript30)
 
-**Thoughts:** None, really.
+**Thoughts:** 
 
 **Link to work:** [Type Ahead](https://github.com/erileff/JavaScript30/blob/master/06%20-%20Type%20Ahead/index-START.html)
 
