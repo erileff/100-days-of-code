@@ -1,9 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 8: June 15, 2020
+##### 
+
+**Today's Progress**: **Python:** a few Codecademy lessons on lists; **JavaScript:** Fun with HTML5 Canvas (JavaScript30)
+
+**Thoughts:** I'm hoping to do a lot more tomorrow!
+
+**Link to work:** [Fun with HTML5 Canvas](https://github.com/erileff/JavaScript30/blob/master/08%20-%20Fun%20with%20HTML5%20Canvas/index-START.html)
+
 ### Day 7: June 14, 2020
 ##### 
 
-**Today's Progress**: **Python:** Codecademy lessons (control flow, lists), Sal's Shipping, Python Gradebook; **JavaScript:** Array Cardio Day 2 (JavaScript30)
+**Today's Progress**: **Python:** Codecademy lessons (control flow, lists), Sal's Shipping, Python Gradebook; **JavaScript:** Array Cardio Day 2 (JavaScript30), also some Exercism exercises
 
 **Thoughts:** 
 
