@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: June 16, 2020
+##### 
+
+**Today's Progress**: **Python:** Len's Slice; **JavaScript:** Console Tricks (JavaScript30)
+
+**Thoughts:** Learning more things that can be done with the console is really useful.
+
+**Link to work:** [Array Tricks](https://github.com/erileff/JavaScript30/blob/master/09%20-%20Dev%20Tools%20Domination/index-START.html)
+
 ### Day 8: June 15, 2020
 ##### 
 
