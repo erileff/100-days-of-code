@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 11: June 18, 2020
+##### 
+
+**Today's Progress**: **Python:** rest of Carly's Clippers, The Boredless Tourist, Thread Shed, Censor Dispenser
+
+**Thoughts:** No JS second day in a row. Got too... excited, I guess, doing Python? I didn't feel like stopping.
+
+**Link to work:** []()
+
+### Day 10: June 17, 2020
+##### 
+**Today's Progress**: **Python:** a few lessons and half of Carly's Clippers
+
+**Thoughts:** Didn't do as much as I normally would (and had to postpone a day of JavaScript30) because I got home pretty late from a client meeting. Lawyer life.
+
+**Link to work:** n/a
+
 ### Day 9: June 16, 2020
 ##### 
 
