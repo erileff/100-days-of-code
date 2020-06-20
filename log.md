@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 19, 2020
+##### 
+
+**Today's Progress**: **Python:** Games of Chance challenge project, Scrabble, began working on Hurricane Analysis challenge project
+
+**Thoughts:** 
+
+**Link to work:** []()
+
 ### Day 11: June 18, 2020
 ##### 
 
