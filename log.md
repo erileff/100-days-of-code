@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 14: June 21, 2020
+##### 
+
+**Today's Progress**: **Python:** Classes lessons (Codecademy)
+
+**Thoughts:** 2 weeks down and I've definitely been coding less and less. Still over an hour, but not as much as before. Like I said yesterday, I hope I'll be able to do a lot more again soon.
+
+**Link to work:** []()
+
+### Day 13: June 20, 2020
+##### 
+
+**Today's Progress**: **Python:** Hurricane Analysis challenge project; **JavaScript:** Shift to Select Multiple Checkboxes (JavaScript30)
+
+**Thoughts:** I've been slowly tapering off coding and I'm trying to undo that!
+
+**Link to work:** []()
+
 ### Day 12: June 19, 2020
 ##### 
 
